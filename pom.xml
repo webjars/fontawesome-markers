@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>fontawesome-markers</artifactId>
-    <version>4.2.0-1</version>
+    <version>4.2.0-2-SNAPSHOT</version>
     <name>fontawesome-markers</name>
     <description>WebJar for fontawesome-markers</description>
     <url>http://webjars.org</url>
@@ -47,7 +47,7 @@
         <url>http://github.com/webjars/fontawesome-markers</url>
         <connection>scm:git:https://github.com/webjars/fontawesome-markers.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/fontawesome-markers.git</developerConnection>
-        <tag>fontawesome-markers-4.2.0-1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
